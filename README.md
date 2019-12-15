@@ -1,4 +1,4 @@
-#Work Day Scheduler
+# Work Day Scheduler
 ---
 # Images
 ---
@@ -7,6 +7,7 @@
 ---
 The purpose of this project was to create an online app that a user could use to track their daily tasks throughout the day. It consists of hour blocks between 9am-5pm, with an input where users can jot down their daily to-do list and save them. The information saved will automatically repopulate when the user visits the page again.
 The time blocks also color code themselves to whether the hour has pass, is present, or is in the future.
+
 #Technologies
 ---
 * HTML
