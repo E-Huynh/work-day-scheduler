@@ -23,4 +23,4 @@ Simply type in the provided text area for any hour block. To save click the save
   * CSS
   * JQuery
 ## Images
-![Project Screenshot]()
+![Project Screenshot](https://github.com/E-Huynh/work-day-scheduler/blob/master/Assets/work_day_scheduler.png?raw=true)
