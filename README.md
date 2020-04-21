@@ -9,7 +9,7 @@ Erik.W.Huynh@Gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/erik-huynh-228321196/)
 
-[Portfolio](https://e-huynh.github.io/updated_portfolio/)
+[Portfolio](https://e-huynh.github.io/portfolio-gram/)
 
 ## Project Description
 The purpose of this project was to create an online app that a user could use to track their daily tasks throughout the day. It consists of hour blocks between 9am-5pm, with an input where users can jot down their daily to-do list and save them. The information saved will automatically repopulate when the user visits the page again.
